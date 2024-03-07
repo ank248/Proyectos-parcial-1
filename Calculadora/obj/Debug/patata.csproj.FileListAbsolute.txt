@@ -1,0 +1,14 @@
+C:\Users\Computo\Desktop\patata\bin\Debug\patata.exe.config
+C:\Users\Computo\Desktop\patata\bin\Debug\patata.exe
+C:\Users\Computo\Desktop\patata\bin\Debug\patata.pdb
+C:\Users\Computo\Desktop\patata\obj\Debug\patata.csproj.AssemblyReference.cache
+C:\Users\Computo\Desktop\patata\obj\Debug\patata.csproj.CoreCompileInputs.cache
+C:\Users\Computo\Desktop\patata\obj\Debug\patata.exe
+C:\Users\Computo\Desktop\patata\obj\Debug\patata.pdb
+C:\Users\angel\OneDrive\Escritorio\Calculadora\bin\Debug\patata.exe.config
+C:\Users\angel\OneDrive\Escritorio\Calculadora\bin\Debug\patata.exe
+C:\Users\angel\OneDrive\Escritorio\Calculadora\bin\Debug\patata.pdb
+C:\Users\angel\OneDrive\Escritorio\Calculadora\obj\Debug\patata.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Calculadora\obj\Debug\patata.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Calculadora\obj\Debug\patata.exe
+C:\Users\angel\OneDrive\Escritorio\Calculadora\obj\Debug\patata.pdb

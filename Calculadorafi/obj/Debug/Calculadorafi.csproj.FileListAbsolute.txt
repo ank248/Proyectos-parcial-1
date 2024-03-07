@@ -1,0 +1,9 @@
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\bin\Debug\Calculadorafi.exe.config
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\bin\Debug\Calculadorafi.exe
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\bin\Debug\Calculadorafi.pdb
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\obj\Debug\Calculadorafi.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\obj\Debug\Calculadorafi.Properties.Resources.resources
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\obj\Debug\Calculadorafi.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\obj\Debug\Calculadorafi.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\obj\Debug\Calculadorafi.exe
+C:\Users\angel\OneDrive\Escritorio\Calculadorafi\obj\Debug\Calculadorafi.pdb
