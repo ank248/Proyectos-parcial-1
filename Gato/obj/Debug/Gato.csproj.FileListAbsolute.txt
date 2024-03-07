@@ -1,0 +1,10 @@
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\bin\Debug\Gato.exe.config
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\bin\Debug\Gato.exe
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\bin\Debug\Gato.pdb
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\obj\Debug\Gato.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\obj\Debug\Gato.Form1.resources
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\obj\Debug\Gato.Properties.Resources.resources
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\obj\Debug\Gato.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\obj\Debug\Gato.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\obj\Debug\Gato.exe
+C:\Users\angel\OneDrive\Escritorio\Martin\Gato\obj\Debug\Gato.pdb
